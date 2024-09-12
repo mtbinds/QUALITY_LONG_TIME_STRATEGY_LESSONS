@@ -6,6 +6,4 @@
 
 - [Qualité et stratégie](./QUALITY/README.md)
 
-Coming Soon
-
 - [Qualité des données](./DATA_QUALITY/README.md)
