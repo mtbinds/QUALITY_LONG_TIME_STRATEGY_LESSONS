@@ -54,16 +54,7 @@ L'objectif de cet atelier est de vous aider à :
   - **Planification Stratégique :** Élaborer un plan d'actions détaillé, définir les KPI (indicateurs de performance clés) et un calendrier de mise en œuvre.
   - **Gestion des Risques :** Identifier les risques potentiels et établir des plans de contingence.
 
-### 5. Présentation des Stratégies (30 minutes)
-
-- **Objectif :** Chaque groupe présente sa stratégie et reçoit des feedbacks.
-
-- **Activités :**
-  
-  - Chaque groupe a 5 à 7 minutes pour présenter sa stratégie.
-  - Les autres participants posent des questions et donnent des retours.
-
-### 6. Conclusion et Synthèse (15 minutes)
+### 5. Conclusion et Synthèse (15 minutes)
 
 - **Objectif :** Résumer les enseignements et discuter des prochaines étapes.
 
