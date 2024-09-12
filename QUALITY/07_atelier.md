@@ -18,6 +18,7 @@ L'objectif de cet atelier est de vous aider à :
 ### 1. Introduction et Contexte (15 minutes)
 
 - **Objectif :** Comprendre les objectifs de l'atelier et un aperçu des activités.
+
 - **Activités :**
   
   - Présentation des objectifs de l'atelier.
@@ -27,6 +28,7 @@ L'objectif de cet atelier est de vous aider à :
 ### 2. Formation des Groupes (10 minutes)
 
 - **Objectif :** Formation des groupes et distribution des rôles.
+
 - **Activités :**
   
   - Répartition des participants en groupes de 4 à 6 personnes.
@@ -35,6 +37,7 @@ L'objectif de cet atelier est de vous aider à :
 ### 3. Analyse de l'Entreprise (20 minutes)
 
 - **Objectif :** Analyser les besoins de qualité d'une entreprise fictive ou réelle.
+
 - **Activités :**
   
   - Les informations sur l'entreprise (historique, mission, produits/services, etc.) seront fournies à chaque groupe.
@@ -43,6 +46,7 @@ L'objectif de cet atelier est de vous aider à :
 ### 4. Élaboration de la Stratégie à Long Terme Axée sur la Qualité (45 minutes)
 
 - **Objectif :** Concevoir une stratégie qui aligne la qualité avec la vision et les objectifs de l'entreprise.
+
 - **Activités :**
   
   - **Définir des Objectifs de Qualité :** Déterminer les objectifs clés de qualité basés sur les priorités de l'entreprise.
@@ -53,6 +57,7 @@ L'objectif de cet atelier est de vous aider à :
 ### 5. Présentation des Stratégies (30 minutes)
 
 - **Objectif :** Chaque groupe présente sa stratégie et reçoit des feedbacks.
+
 - **Activités :**
   
   - Chaque groupe a 5 à 7 minutes pour présenter sa stratégie.
@@ -61,6 +66,7 @@ L'objectif de cet atelier est de vous aider à :
 ### 6. Conclusion et Synthèse (15 minutes)
 
 - **Objectif :** Résumer les enseignements et discuter des prochaines étapes.
+
 - **Activités :**
   
   - Discussion sur les leçons clés de l'atelier.
@@ -88,6 +94,10 @@ Après l'atelier, vous pourrez :
 
 - Donner vos impressions sur l'expérience pour améliorer les futures sessions.
 - Discuter des défis rencontrés et des solutions trouvées durant l'élaboration des stratégies.
+
+## Dépôt
+
+Veuillez déposer une archive (.zip) sur [Google Classroom](https://classroom.google.com/c/NzEyNTIzOTY1NDY3?cjc=nkyhdhn)
 
 ## Conclusion
 
