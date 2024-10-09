@@ -108,6 +108,11 @@ La stratégie à long terme est essentielle pour assurer la pérennité et la co
 
 Ce projet vous permettra d’appliquer des concepts de stratégie d’entreprise à long terme tout en intégrant des éléments de **gestion de la qualité**. Vous développerez ainsi votre capacité à analyser une entreprise, à définir des objectifs stratégiques et à élaborer un plan d’action concret et mesurable.
 
+## Dépôt de projet (avant 12/10 à 17:00)
+
+Veuillez déposer votre rendu sur ce [Google Classroom](https://classroom.google.com/c/NzIxNzM2NDA1ODkx?cjc=pcubvix). 
+
+
 ## Liens utiles
 
 - [Qu’est-ce que l’analyse SWOT ?](https://asana.com/fr/resources/swot-analysis)
