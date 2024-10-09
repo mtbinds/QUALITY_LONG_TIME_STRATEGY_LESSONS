@@ -136,7 +136,7 @@ Les KPI liés à la qualité permettent de quantifier et d’évaluer divers asp
 - **Cycle PDCA (Plan-Do-Check-Act) :**
 
 <div align="center">
-  <img src="./assets/pcda.jpeg" alt="PCDA" width = "50%"/>
+  <img src="./assets/pdca.webp" alt="PCDA" width = "40%"/>
   <p></p>
 </div>
   
@@ -164,4 +164,4 @@ Les KPI liés à la qualité permettent de quantifier et d’évaluer divers asp
 
 ## Conclusion
 
-Les KPI liés à la qualité, le suivi de la performance et l'amélioration continue sont des éléments essentiels pour assurer une gestion efficace de la qualité dans toute organisation. Une mise en œuvre rigoureuse de ces principes permet non seulement de réduire les coûts et d'améliorer la satisfaction des clients, mais aussi d'assurer une croissance durable et un avantage concurrentiel à long terme.
+Les ***KPI*** liés à la qualité, le suivi de la performance et l'amélioration continue sont des éléments essentiels pour assurer une gestion efficace de la qualité dans toute organisation. Une mise en œuvre rigoureuse de ces principes permet non seulement de réduire les coûts et d'améliorer la satisfaction des clients, mais aussi d'assurer une croissance durable et un avantage concurrentiel à long terme.

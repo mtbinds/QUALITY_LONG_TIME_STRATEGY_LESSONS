@@ -103,7 +103,7 @@ Les outils de contrôle de la qualité sont utilisés pour analyser les processu
 </div>
 
 
-Le **diagramme de Pareto** est un outil graphique qui permet d'identifier les problèmes les plus significatifs dans un processus. Il est basé sur le principe de Pareto, aussi appelé la règle des 80/20, qui stipule que 80 % des effets proviennent de 20 % des causes.
+Le **diagramme de Pareto** est un outil graphique qui permet d'identifier les problèmes les plus significatifs dans un processus. Il est basé sur le principe de ***Pareto***, aussi appelé la règle des 80/20, qui stipule que 80 % des effets proviennent de 20 % des causes.
 
 #### Caractéristiques du diagramme de Pareto :
 

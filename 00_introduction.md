@@ -69,7 +69,7 @@ L'histoire de la qualité est longue et s'étend sur plusieurs siècles. Elle a 
 
 ### Années 1980-2000
 
-- **Six Sigma et Lean** : Dans les années 1980, **Motorola** a développé le concept de **Six Sigma**, une méthodologie qui vise à minimiser les défauts dans les processus de production grâce à l'analyse statistique et à l'optimisation des processus. Parallèlement, la méthode **Lean** (inspirée du modèle de Toyota) s'est concentrée sur l’élimination des gaspillages dans la chaîne de production tout en maintenant une haute qualité.
+- **Six Sigma et Lean** : Dans les années 1980, **Motorola** a développé le concept de **Six Sigma**, une méthodologie qui vise à minimiser les défauts dans les processus de production grâce à l'analyse statistique et à l'optimisation des processus. Parallèlement, la méthode **Lean** (inspirée du modèle de ***Toyota***) s'est concentrée sur l’élimination des gaspillages dans la chaîne de production tout en maintenant une haute qualité.
 
 ### Aujourd'hui
 

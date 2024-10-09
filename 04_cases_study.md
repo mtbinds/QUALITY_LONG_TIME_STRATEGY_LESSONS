@@ -6,6 +6,11 @@ Les études de cas offrent des aperçus précieux sur la manière dont les entre
 
 ## 1. Étude de Cas : Toyota
 
+<div align="center">
+  <img src="./assets/toyota.jpg" alt="Toyota" width = "30%"/>
+  <p></p>
+</div>
+
 ### 1.1 Contexte de l'Entreprise
 
 Toyota, fondée en 1937 au Japon, est l'un des plus grands fabricants d'automobiles au monde. L'entreprise est célèbre pour son Toyota Production System (TPS), qui est un modèle de gestion de la production axé sur la qualité et l'efficacité.
@@ -27,6 +32,11 @@ Toyota, fondée en 1937 au Japon, est l'un des plus grands fabricants d'automobi
 - **Avantage Concurrentiel :** Le modèle de production lean a permis à Toyota de se distinguer par ses véhicules fiables et de haute qualité, renforçant sa position sur le marché mondial.
 
 ## 2. Étude de Cas : Apple
+
+<div align="center">
+  <img src="./assets/apple.jpg" alt="Apple" width = "30%"/>
+  <p></p>
+</div>
 
 ### 2.1 Contexte de l'Entreprise
 
@@ -50,6 +60,11 @@ Apple Inc., fondée en 1976, est un leader mondial dans le secteur de la technol
 
 ## 3. Étude de Cas : Starbucks
 
+<div align="center">
+  <img src="./assets/starbucks.png" alt="Starbucks" width = "30%"/>
+  <p></p>
+</div>
+
 ### 3.1 Contexte de l'Entreprise
 
 Starbucks, fondée en 1971, est une chaîne mondiale de cafés qui se distingue par son engagement envers la qualité des produits et l'expérience client.
@@ -71,6 +86,11 @@ Starbucks, fondée en 1971, est une chaîne mondiale de cafés qui se distingue 
 - **Croissance :** L'accent mis sur la qualité et l'innovation a soutenu une expansion rapide et réussie dans les marchés internationaux.
 
 ## 4. Étude de Cas : Amazon
+
+<div align="center">
+  <img src="./assets/amazon.jpg" alt="Amazon" width = "30%"/>
+  <p></p>
+</div>
 
 ### 4.1 Contexte de l'Entreprise
 

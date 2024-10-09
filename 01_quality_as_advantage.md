@@ -67,6 +67,7 @@ La qualité est un facteur central dans la création et le maintien d'une image 
 La qualité est un des principaux vecteurs de différenciation sur des marchés où de nombreux concurrents proposent des produits similaires. Une marque qui se distingue par la qualité gagne en crédibilité et en confiance auprès de ses clients.
 
 #### Avantages d'une marque associée à la qualité :
+
 - **Premiumisation** : Les produits de haute qualité peuvent être positionnés sur des segments premium, permettant de pratiquer des prix plus élevés.
 - **Loyauté des clients** : Une entreprise qui offre une qualité constante au fil du temps gagne la fidélité de ses clients.
 - **Barrière à l'entrée pour les concurrents** : Les concurrents qui veulent s'imposer doivent fournir un niveau de qualité similaire ou supérieur, ce qui rend plus difficile la conquête de parts de marché.
@@ -81,6 +82,7 @@ La qualité est un des principaux vecteurs de différenciation sur des marchés 
 L'impact d'une mauvaise qualité sur une entreprise peut être catastrophique. En cas de défauts répétés ou d'incidents liés à la qualité (rappels de produits, accidents, etc.), l'entreprise peut subir de graves répercussions en termes d'image et de réputation.
 
 #### Exemples d'effets négatifs :
+
 - **Médiatisation des défaillances** : Les scandales liés à des produits de mauvaise qualité se propagent rapidement, surtout à l’ère des réseaux sociaux.
 - **Perte de confiance des consommateurs** : Une expérience négative peut avoir un impact durable sur la perception des consommateurs, même après la résolution du problème.
 - **Baisse des ventes et parts de marché** : Lorsque la réputation de l’entreprise est entachée, les clients se tournent souvent vers la concurrence.
@@ -105,6 +107,7 @@ Investir dans la qualité nécessite des ressources, mais ces efforts peuvent g�
 Investir dans la qualité peut sembler coûteux, mais les **coûts de la non-qualité** peuvent être bien plus importants à long terme.
 
 #### Exemples de coûts de la non-qualité :
+
 - **Coûts internes** : Mauvaise organisation des processus, gaspillage de matières premières, inefficience des machines, etc.
 - **Coûts externes** : Retours produits, garantie, rappels, réparations, compensations aux clients.
 - **Coûts intangibles** : Dommages à la réputation, perte de clients, baisse de confiance des investisseurs.
@@ -117,6 +120,7 @@ Investir dans la qualité peut sembler coûteux, mais les **coûts de la non-qua
 </div>
 
 En augmentant la qualité, une entreprise peut :
+
 - **Réduire les coûts de reprise et d'échec** : Moins de défauts signifie moins de retours, moins de réparations et moins de gaspillage.
 - **Augmenter la satisfaction et la fidélité** : Une meilleure qualité entraîne des clients plus satisfaits et fidèles, réduisant les coûts liés à l'acquisition de nouveaux clients.
 - **Justifier des prix plus élevés** : Les produits de qualité supérieure peuvent être vendus à des prix plus élevés, augmentant ainsi les marges bénéficiaires.
@@ -126,6 +130,7 @@ En augmentant la qualité, une entreprise peut :
 Les entreprises qui investissent dans la qualité voient souvent des **améliorations significatives de leurs performances financières**. Non seulement elles réduisent les coûts d’exploitation à travers des processus plus efficaces, mais elles augmentent aussi leurs revenus en attirant de nouveaux clients et en fidélisant les clients existants.
 
 #### Exemples de bénéfices financiers liés à la qualité :
+
 - **Augmentation des ventes** : Les produits de haute qualité ont tendance à se vendre mieux, générant ainsi des revenus supplémentaires.
 - **Réduction des coûts d'exploitation** : Les processus optimisés et les produits fiables réduisent les coûts de production et de maintenance.
 - **Meilleur accès aux marchés internationaux** : Les certifications de qualité (comme ISO 9001) permettent d’accéder à des marchés plus exigeants et d’établir des partenariats avec des entreprises de renom.
@@ -135,6 +140,7 @@ Les entreprises qui investissent dans la qualité voient souvent des **améliora
 Bien que l'amélioration de la qualité puisse nécessiter des investissements importants, notamment en formation, en infrastructure ou en technologies, ces coûts sont souvent rapidement amortis par les gains réalisés en termes de productivité, d'efficacité et de satisfaction client.
 
 #### Principaux leviers d'amortissement :
+
 - **Réduction des coûts de non-qualité** : Diminuer les erreurs permet d'économiser sur les réparations, les retours et les pertes liées à la mauvaise production.
 - **Réduction des coûts d'acquisition de clients** : Des clients satisfaits deviennent des ambassadeurs de la marque, réduisant ainsi les dépenses en marketing.
 - **Amélioration des processus** : L’investissement dans des méthodes de contrôle qualité avancées permet de réduire les gaspillages, d’améliorer les délais de production et d’augmenter la capacité à livrer des produits sans défauts.
