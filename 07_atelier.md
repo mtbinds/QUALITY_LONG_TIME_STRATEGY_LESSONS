@@ -88,7 +88,7 @@ Après l'atelier, vous pourrez :
 
 ## Dépôt (avant 12/10 à 17:00)
 
-Veuillez déposer une archive (.zip) sur [Google Classroom](https://classroom.google.com/c/NzEyNTIzOTY1NDY3?cjc=nkyhdhn)
+Veuillez déposer une archive (.zip) sur [Google Classroom](https://classroom.google.com/c/Njg2MTM3ODEzODQ4?cjc=bpn7exq)
 
 ## Conclusion
 

@@ -19,10 +19,10 @@
 - [Mesure de la Performance Qualitative](./05_quality_mesurement.md)
 - [Défis et Opportunités de la Qualité à Long Terme](./06_quality_long_tyme_challenges.md)
 
-## Pratique
+## Pratique (notée)
 
 - [Atelier : Élaboration d'une Stratégie à Long Terme Axée sur la Qualité](./07_atelier.md)
 
-## Projet final (noté)
+## Projet final
 
 - [Projet final](./08_projet_final.md)
